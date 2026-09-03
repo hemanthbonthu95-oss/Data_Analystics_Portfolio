@@ -1,0 +1,21 @@
+This project focuses on end-to-end data analytics using Power BI, transforming raw transactional data into an interactive, user-centric dashboard. It demonstrates applied time-series analysis, dynamic calculations using DAX, and efficient data modeling techniques designed to deliver seamless business insights.
+
+Key Technical & Functional Highlights
+
+Advanced DAX & Time-Series Analysis: Engineered custom measures utilizing DAX time-intelligence functions to evaluate period-over-period trends, cumulative metrics, and dynamic KPIs.
+
+Data Modeling & Architecture: Designed a clean, structured star-schema data model with established relationships, ensuring efficient query performance and optimal data refresh handling.
+
+Interactive UI/UX & Navigation: Implemented custom bookmarks and canvas navigation elements, allowing stakeholders to clear filters instantly and switch seamlessly between analytical views.
+
+User-Centric Design: Formatted visual hierarchies and interactive tooltips to maximize readability for executive decision-making.
+
+Tech Stack
+
+Primary Tool: Power BI (Desktop & Service)
+
+Calculations & Data Prep: DAX, Power Query (M)
+
+Data Structure: Star Schema Modeling
+
+You will find the Dataset and the .pbix file that contains analysis dashboard.
